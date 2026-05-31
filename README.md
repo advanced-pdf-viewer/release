@@ -40,3 +40,7 @@ If the app reports that Ghostscript is missing, install Ghostscript and restart 
 - If separations do not render, confirm Ghostscript is installed correctly.
 - If the app cannot locate Ghostscript, check that `gswin64c.exe` or `gswin32c.exe` is on PATH.
 - Keep the app files together in one folder to avoid missing resources.
+
+## License activation
+
+For license activation please contact m.office@ukr.net
